@@ -1,6 +1,6 @@
-# Leak Detection and Datasets for WDN
+# Leak Detection and Localisation Datasets for WDN
 
-This repository contains datasets for **leak detection and localization** in Water Distribution Networks (WDN) for two areas: **K.K. Nagar (Chennai)** and **R.S. Puram (Coimbatore)** .  
+This repository contains datasets for leak detection and localisation in Water Distribution Networks (WDN) for two areas: **K.K. Nagar (Chennai)** and **R.S. Puram (Coimbatore)** .  
 
 ## Folder Overview
 
